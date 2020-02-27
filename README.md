@@ -92,7 +92,7 @@ function my_target_type_wp_weixin_broadcast_targets_type_settings( $wechat_broad
 				$('#my_target_type_values').on('keyup', function() {
 					targetsContainer.val($(this).val().split('\n').join(','));
 				});
-			});			
+			});
 		</script>
 		<!-- The content of 'my_target_type_targets' field will be sanitized with filter_input( INPUT_POST, 'wechat_broadcast_target_' . $target_type, FILTER_SANITIZE_STRING ); -->
 		<!-- Alternatively, values of any named field posted on form submit can be retrieved and used in the 'wp_weixin_broadcast_save_targets' action below, and you will need to sanitize it yourself -->
