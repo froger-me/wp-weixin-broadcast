@@ -1,0 +1,967 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Weixin Broadcast\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-21 01:56+0000\n"
+"PO-Revision-Date: 2019-07-21 02:07+0000\n"
+"Last-Translator: admin <alex@truerun.com>\n"
+"Language-Team: Chinese (China)\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: inc/class-wp-weixin-broadcast-message.php:861
+msgid ""
+"<strong>Schedule:</strong><br/>The WeChat Broadcast is currently scheduled "
+"and will be processed with the latest version of the WeChat Articles "
+"structure saved in the Broadcast Message.<br/>If some images included in the "
+"original WeChat Articles are missing during the broadcast, they will be "
+"replaced with a default image.<br/>If you do not want to proceed with the "
+"scheduled broadcast, use the \"Move to Trash\" link."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:356
+msgid "[TRASH] "
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:10
+msgid "A reminder from Tencent:"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:176
+msgid "A set of WeChat Materials to broadcast to followers"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:135
+msgid "A WeChat Article Material to upload"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:187 inc/templates/admin/abstract.php:7
+msgid "Abstract"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:36
+msgid "add Image material"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:146
+msgid "Add New"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:106
+#: inc/templates/admin/broadcast-message-builder.php:109
+msgid "Add New WeChat Article"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:145
+msgid "Add New WeChat Broadcast"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:35
+msgid "add Rich Media material"
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:102
+msgid "Add to Broadcast Message"
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:80
+msgid "Add WeChat Article"
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:29
+msgid "Agree"
+msgstr "同意"
+
+#. Author of the plugin
+msgid "Alexandre Froger"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1442
+msgid "all followers"
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:136
+msgid "All users"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:105
+msgid "All WeChat Articles"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:144
+msgid "All WeChat Broadcasts"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:127
+msgid ""
+"Are you sure you want to do this?\n"
+"\n"
+"If you proceed, WordPress will attempt to call the WeChat interface and "
+"broadcast the message to the followers matching the selected criteria.\n"
+"\n"
+"You will not be able to edit this WeChat Broadcast anymore, and the "
+"daily/monthly quota of broadcasts will be decreased for all the followers "
+"who successfully received the message."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:126
+msgid "Are you sure you want to remove this item?"
+msgstr ""
+
+#: inc/templates/admin/metadata.php:9
+msgid "Author:"
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:12
+msgid ""
+"Be sure to carefully read through and thoroughly understand this statement "
+"before using the Broadcast Message function on WeChat Official Account "
+"Platform. "
+msgstr "在使用微信公众平台群发消息功能前，请你务必仔细阅读并透彻理解本声明。"
+
+#: inc/class-wp-weixin-broadcast-message.php:244
+msgid "Broadcast"
+msgstr ""
+
+#. %s is the Broadcast number
+#: inc/class-wp-weixin-broadcast-message.php:935
+#, php-format
+msgid "Broadcast #%s"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:794
+msgid "Broadcast <b>immediately</b>"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:836
+msgid "Broadcast draft updated."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:40
+msgid "Broadcast Job result"
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:36
+msgid "Broadcast Message Content"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:855
+msgid "Broadcast Message Inconsistent"
+msgstr ""
+
+#. %s is the target of the broadcast
+#: inc/class-wp-weixin-broadcast-message.php:1450
+#, php-format
+msgid "Broadcast message to %s failed."
+msgstr ""
+
+#. %s is the target of the broadcast
+#: inc/class-wp-weixin-broadcast-message.php:1460
+#, php-format
+msgid "Broadcast message to %s succeeded."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:115
+#: inc/class-wp-weixin-broadcast-message.php:812
+msgid "Broadcast Now"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:116
+msgid "Broadcast on:"
+msgstr ""
+
+#. %1$s is the date
+#: inc/class-wp-weixin-broadcast-message.php:808
+#, php-format
+msgid "Broadcast on: <b>%1$s</b>"
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:131
+msgid "Broadcast Options"
+msgstr ""
+
+#. %s: date and time of the revision
+#: inc/class-wp-weixin-broadcast-message.php:831
+msgid "Broadcast published."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1572
+msgid "Broadcast result statistics:"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:832
+msgid "Broadcast saved."
+msgstr ""
+
+#. %s: date and time of the schedule
+#: inc/class-wp-weixin-broadcast-message.php:835
+#, php-format
+msgid "Broadcast scheduled for: %s."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:833
+msgid "Broadcast submitted."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:828
+#: inc/class-wp-weixin-broadcast-message.php:829
+msgid "Broadcast updated."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:119
+#: inc/class-wp-weixin-broadcast-message.php:798
+msgid "Broadcasted"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:118
+msgid "Broadcasted on:"
+msgstr ""
+
+#. %1$s is the date
+#: inc/class-wp-weixin-broadcast-message.php:803
+#, php-format
+msgid "Broadcasted on: <b>%1$s</b>"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:267
+msgid "Build Message"
+msgstr ""
+
+#: inc/templates/admin/send-ignore-reprint.php:7
+msgid ""
+"Check if you still want to attempt to proceed with the broadcast if WeChat "
+"has determined the content is not \"Original Content\"."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:128
+msgid "Choose a tag"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:113
+msgid "Cover Image"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1689
+#: inc/class-wp-weixin-broadcast-message.php:1732
+#: inc/class-wp-weixin-broadcast-message.php:1764
+msgid "Data sent to the API:"
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-log.php:17
+#: inc/templates/admin/broadcast-message-log.php:35
+msgid "Date: "
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:29
+msgid "Disagree"
+msgstr "不同意"
+
+#: inc/templates/admin/broadcast-message-builder.php:38
+msgid "Drag to reorder items"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:125
+msgid "Drop Here"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:445 inc/class-wp-weixin-article.php:446
+msgid "Duplicate as WeChat Article"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:466
+msgid "Edit Source"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:108
+msgid "Edit WeChat Article"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:148
+msgid "Edit WeChat Broadcast"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1577
+msgid "Error ratio: "
+msgstr ""
+
+#. %1$s is the path to the plugin's data directory
+#: inc/class-wp-weixin-broadcast.php:38
+msgid "Failed to create the necessary database table(s)."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1761
+msgid "Failed to replace image in content and upload to WeChat."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1729
+msgid "Failed to upload cover image to WeChat."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1686
+msgid "Failed to upload default cover image to WeChat."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1270
+msgid "Failed to upload Rich Media material to WeChat."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:45
+msgid "failure"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:155
+msgid "Featured Image"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:121
+msgid "Filter WeChat Articles list"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:163
+msgid "Filter WeChat Broadcasts list"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1575
+msgid "Filtered total: "
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:857
+msgid ""
+"Fix the inconsistencies before proceeding with Preview or sending the "
+"broadcast."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://froger.me/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/froger-me/wp-weixin-broadcast"
+msgstr ""
+
+#: inc/templates/admin/send-ignore-reprint.php:9
+msgid "Ignore Reprint Warning"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:117
+msgid "Insert into WeChat Article"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:159
+msgid "Insert into WeChat Broadcast"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1130
+msgid "Invalid parameters: empty post_ids string"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1112
+msgid "Invalid parameters: invalid post_id"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1122
+msgid "Invalid parameters: invalid post_ids string"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1581
+msgid "Issues found during originality check:"
+msgstr ""
+
+#: inc/templates/admin/broadcast-preview-button.php:15
+msgid ""
+"It is generally safe to revert the post to another post status (such as "
+"\"Draft\" or \"Pending Reviews\") and change the schedule time, but other "
+"operations may have unintended consequences."
+msgstr ""
+
+#. %1$s is the article's index, %2$s is the URL of the original
+#: inc/class-wp-weixin-broadcast-message.php:1501
+#, php-format
+msgid ""
+"Item in position %1$s (<a href=\"%2$s\" target=\"_blank\">View similar "
+"existing article</a>)."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1562
+msgid "Job completion status: "
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:871
+msgid "Last Broadcast Log type"
+msgstr ""
+
+#: inc/templates/admin/metadata.php:12
+msgid ""
+"Leave empty to use the current user's full name if exists, or the user "
+"display name by default."
+msgstr ""
+
+#: inc/templates/admin/metadata.php:19
+msgid ""
+"Leave empty to use the original source Post URL if it exists, or the "
+"homepage URL by default."
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:117
+msgid ""
+"List of WeChat IDs separated by commas. The IDs must belong to followers of "
+"the WeChat Official Account for them to receive the preview."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:273
+msgid "Log"
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-log.php:27
+msgid "Log details"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:872
+msgid "Log result"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1333
+#: inc/class-wp-weixin-broadcast-message.php:1471
+msgid "Message sent to the API:"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:891
+msgid "N/A"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:107
+msgid "New WeChat Article"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:147
+msgid "New WeChat Broadcast"
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-log.php:43
+msgid "No log entry yet"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:381
+msgid "No post to duplicate has been supplied!"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:153
+msgid "Not found"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:154
+msgid "Not found in Trash"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1576
+msgid ""
+"Number of followers who actually received the broadcast over the total "
+"number of followers eligible."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1577
+msgid ""
+"Number of followers who did <strong>not</strong> receive the broadcast over "
+"the total number of followers eligible."
+msgstr ""
+
+#: inc/templates/admin/metadata.php:28
+msgid "Only the Official Account followers can comment"
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:173
+msgid ""
+"Only the WordPress users currently following the Official Account can "
+"receive the broadcasted message and will appear in the search results. The "
+"broadcast allowance (1 daily for Subscription accounts, 4 monthly for "
+"Service Accounts) will be decreased only for the selected followers."
+msgstr ""
+
+#: inc/templates/admin/metadata.php:23
+msgid "Open to comments"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:485
+msgid ""
+"Opening squared bracket \"[\" and closing squared bracket \"]\" detected in "
+"content: the article may contain shortcodes. To avoid compatiility issues, "
+"make sure to thoroughly review broadcast messages including this article "
+"with the \"Send Preview to WeChat\" button before broadcasting the message "
+"to followers."
+msgstr ""
+
+#: inc/templates/admin/abstract.php:9
+msgid ""
+"Optional - If this field is left empty, the first 54 words of the main text "
+"will be captured by default."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1469
+msgid "Parameters sent to the API:"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:104
+msgid "Parent WeChat Article:"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:143
+msgid "Parent WeChat Broadcast:"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:98
+msgctxt "Post Type General Name"
+msgid "WeChat Articles"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:137
+msgctxt "Post Type General Name"
+msgid "WeChat Broadcasts"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:99
+msgctxt "Post Type Singular Name"
+msgid "WeChat Article"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:138
+msgctxt "Post Type Singular Name"
+msgid "WeChat Broadcast"
+msgstr ""
+
+#. %1$s is the WeChat ID, %2$s is the type of ID
+#: inc/class-wp-weixin-broadcast-message.php:1312
+#, php-format
+msgid "Preview message to %1$s (%2$s) failed."
+msgstr ""
+
+#. %1$s is the WeChat ID, %2$s is the type of ID
+#: inc/class-wp-weixin-broadcast-message.php:1323
+#, php-format
+msgid "Preview message to %1$s (%2$s) succeeded."
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:113
+msgid "Preview Options"
+msgstr ""
+
+#: inc/templates/admin/broadcast-preview-button.php:16
+msgid "Proceed at our own risks."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1591
+msgid "Push event data received from WeChat:"
+msgstr ""
+
+#: inc/templates/admin/metadata.php:16
+msgid "Read More URL:"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:115
+msgid "Remove cover image"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:157
+msgid "Remove featured image"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:117
+msgid "Schedule Broadcast for:"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:129
+msgid "Search Articles..."
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:112
+msgid "Search WeChat Article"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:152
+msgid "Search WeChat Broadcast"
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:140
+msgid "Select by tag"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:130
+msgid "Select WordPress users (default to all or max 10,000 ; min 2)"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:38
+msgid "Send Broadcast"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:37
+msgid "Send Preview"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:259
+msgid "Send Preview to WeChat"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:39
+msgid "Send Scheduled Broadcast"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:114
+msgid "Set cover image"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:156
+msgid "Set featured image"
+msgstr ""
+
+#: inc/templates/admin/cover-image.php:9
+msgid "Show cover image in article"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:392
+#: inc/class-wp-weixin-broadcast-message.php:1007
+#: inc/class-wp-weixin-broadcast-message.php:1417
+msgid "Starred"
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:47
+msgid "Start Adding Items"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:43
+msgid "success"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1576
+msgid "Success ratio: "
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1549
+msgid "Suspicious broadcast (no more information)."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1525
+msgid "Suspicious broadcast: suspected advertisement."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1543
+msgid "Suspicious broadcast: suspected copyright infringement."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1534
+msgid "Suspicious broadcast: suspected erotic/pornographic content."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1540
+msgid "Suspicious broadcast: suspected fraud."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1537
+msgid "Suspicious broadcast: suspected illegal content."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1528
+msgid "Suspicious broadcast: suspected political content."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1546
+msgid "Suspicious broadcast: suspected promotion collusion."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1531
+msgid "Suspicious broadcast: suspected socially sensitive topic."
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:133
+msgid "Target recipients of broadcast message:"
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:115
+msgid "Target recipients of preview:"
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:23
+msgid ""
+"Tencent may disable your Broadcast Message function if your account "
+"experiences exception."
+msgstr "对于帐号异常的用户，腾讯可以取消你的群发消息功能。"
+
+#: inc/class-wp-weixin-broadcast-message.php:1522
+msgid "The broadcast job failed."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1561
+msgid "The broadcast job was completed with an unknown status.<br/>"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1511
+msgid "The broadcast job was completed with warnings.<br/>"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1517
+msgid "The broadcast job was successful."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:856
+msgid ""
+"The Broadcast Message has missing data (some WeChat Articles have either "
+"been deleted, sent to trash, or have a missing Cover Image)."
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:17
+msgid ""
+"The broadcast of a message generated by you does not mean Tencent backs your "
+"opinion or position."
+msgstr "群发消息内容完全由你生成，不代表腾讯赞成你的内容或立场。"
+
+#: inc/templates/admin/broadcast-message-builder.php:159
+msgid ""
+"The broadcasted message will be sent only to the followers tagged with the "
+"selected WeChat Official Account tag item. The broadcast allowance (1 daily "
+"for Subscription accounts, 4 monthly for Service Accounts) will be decreased "
+"only for the followers tagged with the selected item."
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:149
+msgid ""
+"The broadcasted message will be sent to all the followers of the Official "
+"Account. The broadcast allowance (1 daily for Subscription accounts, 4 "
+"monthly for Service Accounts) will be decreased for all the followers."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1555
+msgid ""
+"The originality check determined the broadcast is a reprint and \"Ignore "
+"Reprint Warning\" was not checked."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1558
+msgid ""
+"The originality check determined the broadcast is a reprint and the original "
+"author chose not to allow the batch send of reprints."
+msgstr ""
+
+#: inc/templates/admin/cover-image.php:7
+msgid ""
+"The recommended image size is 900x500 pixels, and must not be more than 2MB."
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:106
+msgid ""
+"There is currently no WeChat Article to broadcast. Write a new one first, or "
+"clone existing content."
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1552
+msgid ""
+"There was a system error during the originality check and the original "
+"author chose not allow the batch send of reprints."
+msgstr ""
+
+#: inc/templates/admin/broadcast-preview-button.php:20
+msgid "This message has already been broadcasted and cannot be modified."
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:172
+msgid ""
+"This type of broadcast requires a minimum of 2 followers selected as target "
+"recipients or it will fail."
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:27
+msgid ""
+"To ensure the user’s experience, WeChat Official Account platform forbids "
+"malicious marketing, including sharing on Moments, "
+"pornographic/vulgar/violent/bloody messages, political rumors or other "
+"messages that violate laws, regulations and policies. Tencent will "
+"relentlessly crack down and dispose of any account that violates the "
+"aforementioned rules."
+msgstr ""
+"为保障用户体验，微信公众平台严禁恶意营销以及诱导分享朋友圈，严禁发布色情低俗、暴力血腥、政治谣言等各类违反法律法规及相关政策规定的信息。一旦发现，我们将严厉打击和处理。"
+
+#: inc/class-wp-weixin-broadcast-message.php:1575
+msgid ""
+"Total number of followers eligible to receive the broadcast after filters "
+"have been applied (removing followers who have opted out, have been "
+"blacklisted, or already received the daily/monthly quota of messages) over "
+"the total number of followers the message was sent to."
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:120
+msgid "Type of WeChat IDs:"
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-log.php:14
+#: inc/templates/admin/broadcast-message-log.php:32
+msgid "Type: "
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:109
+msgid "Update WeChat Article"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:149
+msgid "Update WeChat Broadcast"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:118
+msgid "Uploaded to this WeChat Article"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:160
+msgid "Uploaded to this WeChat Broadcast"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:116
+msgid "Use as cover image"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:158
+msgid "Use as featured image"
+msgstr ""
+
+#. %1$s is the tag name, %2$s is the ID
+#: inc/class-wp-weixin-broadcast-message.php:1434
+#, php-format
+msgid "users tagged with %1$s (remote ID %2$s)"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:467 inc/class-wp-weixin-article.php:469
+msgid "View Source"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:110 inc/class-wp-weixin-article.php:111
+msgid "View WeChat Articles"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:150
+msgid "View WeChat Broadcast"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:151
+msgid "View WeChat Broadcasts"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:44
+msgid "warning"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:355
+msgid "WARNING - ITEM DELETED"
+msgstr ""
+
+#: inc/templates/admin/broadcast-preview-button.php:13
+msgid "WARNING!"
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:123
+msgid "WeChat Account IDs"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:134
+msgid "WeChat Article"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:102
+msgid "WeChat Article Archives"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:103
+msgid "WeChat Article Attributes"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:100 inc/class-wp-weixin-article.php:101
+msgid "WeChat Articles"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:119
+msgid "WeChat Articles list"
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:120
+msgid "WeChat Articles list navigation"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast.php:51 inc/class-wp-weixin-broadcast.php:52
+#: inc/class-wp-weixin-broadcast-message.php:140
+#: inc/class-wp-weixin-broadcast-message.php:175
+msgid "WeChat Broadcast"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:141
+msgid "WeChat Broadcast Archives"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:142
+msgid "WeChat Broadcast Attributes"
+msgstr ""
+
+#. Description of the plugin
+msgid "WeChat Broadcast for WordPress"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:139
+msgid "WeChat Broadcasts"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:161
+msgid "WeChat Broadcasts list"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:162
+msgid "WeChat Broadcasts list navigation"
+msgstr ""
+
+#: inc/class-wp-weixin-broadcast-message.php:1573
+msgid ""
+"WeChat does not guarantee the accuracy of the result and it is given below "
+"for reference only."
+msgstr ""
+
+#: inc/class-wp-weixin-article.php:193
+msgid "WeChat Metadata"
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:127
+msgid "WeChat Open IDs"
+msgstr ""
+
+#: inc/templates/admin/broadcast-preview-button.php:14
+msgid ""
+"WordPress debug mode is activated. In normal circumstances, this WeChat "
+"Broadcast post should not be editable or available for preview."
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:144
+msgid "WordPress WeChat users"
+msgstr ""
+
+#. %s is the number of WordPress WeChat users
+#: inc/class-wp-weixin-broadcast-message.php:1403
+#, php-format
+msgid "WordPress WeChat users (%s)"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Weixin Broadcast"
+msgstr ""
+
+#: inc/templates/admin/broadcast-message-builder.php:13
+msgid ""
+"You can choose to disable the Broadcast Message function. If you use this "
+"function, however, you will be deemed having acknowledged this statement "
+"entirely."
+msgstr "你可以选择不使用群发消息功能，但如果你使用群发消息功能，你的使用行为将被视为对本声明全部内容的认可。"
+
+#: inc/templates/admin/broadcast-message-builder.php:20
+msgid ""
+"You use the Broadcast Message function totally at your own risk. Tencent "
+"assumes no legal responsibility arising from your failure to use the "
+"function properly or your failure to broadcast any message because of poor "
+"network condition, faulty communication line, and/or account status "
+"exception."
+msgstr ""
+"你应该对使用群发消息功能的结果自行承担风险。因网络状况、通讯线路、帐号异常等原因而导致你不能正常使用或群发消息内容不能够实时到达，腾讯不承担任何法律责任。"
